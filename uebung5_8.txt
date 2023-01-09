@@ -1,3 +1,9 @@
 Datei für 5.8, Aufgabe 2
 
+<<<<<<< HEAD
 Und jetzt Teilaufgabe 5 im Zweig main
+=======
+Und jetzt Teilaufgabe 5 im Zweig neuerZweig
+>>>>>>> neuerZweig
+
+Ich übernehme alles
